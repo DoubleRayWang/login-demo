@@ -1,0 +1,1 @@
+#gulp-str-cli
