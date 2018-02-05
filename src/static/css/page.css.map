@@ -1,0 +1,1 @@
+{"version":3,"sources":["page.less","page.css"],"names":[],"mappings":"AAAA;;EACE,uBAAA;CCED","file":"page.css","sourcesContent":["html,body{\r\n  background-color: cyan;\r\n}","html,\nbody {\n  background-color: cyan;\n}\n"]}

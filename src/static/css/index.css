@@ -1,0 +1,14 @@
+#abc {
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+#abc span {
+  color: crimson;
+  font-size: 30px;
+}
+
+/*# sourceMappingURL=index.css.map */
