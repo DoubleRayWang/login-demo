@@ -1,0 +1,1 @@
+{"version":3,"sources":["reset.scss"],"names":[],"mappings":"AAAA;EACE,YAAW;EACX,aAAY;EACZ,iBAAgB,EACjB;;AACD;EACE,UAAS;EACT,WAAU;EACV,+BAAsB;EAAtB,uBAAsB,EACvB","file":"reset.css","sourcesContent":["body,html{\r\n  width: 100%;\r\n  height: 100%;\r\n  overflow: hidden;\r\n}\r\n*{\r\n  margin: 0;\r\n  padding: 0;\r\n  box-sizing: border-box;\r\n}"]}
