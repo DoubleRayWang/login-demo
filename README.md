@@ -2,7 +2,7 @@
 
 本工程适合小型H5开发，`css`使用`less/sass`，`JavaScript`可使用大部分`ES6`新特性并配置`babel`。
 
-> 建议使用[less](http://less.bootcss.com/)，避免sass环境的配置（windows需安装ruby），参见[Sass中文网](https://www.sass.hk/)
+> 建议使用 [Less](http://less.bootcss.com/)，避免sass环境的配置（windows需安装ruby），参见[Sass中文网](https://www.sass.hk/)
 
 具体配置可参见gulpfile.js及package.json
 
