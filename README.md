@@ -1,4 +1,4 @@
-#gulp-engineered
+# gulp-engineered
 
 本工程适合小型H5开发，`css`使用`less/sass`，`JavaScript`可使用大部分`ES6`新特性并配置`babel`。
 
@@ -18,7 +18,7 @@
 - 发布版会自动加上`name.js?v=md5`的版本号，解决浏览器缓存的问题的同时不会更改文件名称，适应一部分需求（如不需要可自己更改）
 - 所有插件都是最新的，大幅度提高开发效率
 
-> 建议使用webstorm或其他IED进行开发，所以本功能未增加服务器环境配置（webstrom已实现服务器环境）
+> 建议使用webstorm或其他IED进行开发，所以本工程未增加服务器环境配置（webstrom已实现服务器环境）
 
 ### 命令
 
