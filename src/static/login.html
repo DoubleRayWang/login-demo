@@ -5,10 +5,12 @@
 	<title>Sign In</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<link rel="stylesheet" href="lib/css/base-css.min.css">
 	<link rel="stylesheet" href="css/login.css">
 </head>
 <body>
+<header class="sticky">
+    <a href="#" role="button">Sign In</a>
+</header>
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12 col-sm-last col-md-normal col-lg-4 col-lg-offset-4">
@@ -32,18 +34,17 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-3 col-sm-offset-2">
-							<input type="reset" class="primary" value="重 置">
-						</div>
-						<div class="col-sm-3 col-sm-offset-2">
+						<div class="col-sm-4 col-sm-offset-4">
 							<input type="submit" class="tertiary" value="登 录">
 						</div>
 					</div>
 				</fieldset>
 			</form>
 		</div>
+		<div class="col-sm"></div>
 	</div>
 </div>
+<footer class="sticky text-center">&copy; CTR 2018</footer>
 <script src="lib/js/jquery.min.js"></script>
 <script src="js/login.js"></script>
 </body>
