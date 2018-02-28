@@ -95,7 +95,7 @@ gulp.task('minJs', function () {
     return gulp.src(static + 'js/*.js')
         .pipe(plumber({errorHandler: notify.onError('Error: <%= error.message %>')}))
         //.pipe(rename({suffix: '.min'}))
-        .pipe(uglify())
+        //.pipe(uglify())
         .pipe(gulp.dest(dist + CustomDirectory + 'js'));
 });
 //压缩图片
