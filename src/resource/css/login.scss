@@ -1,12 +1,19 @@
-#form{
-  label{
-
-  }
-  input{
+#form {
+  input {
     width: 100%;
+    &[name]{
+      width: 90%;
+    }
   }
 }
-@media (min-width: 768px){
+.container{
+
+}
+.responsive-label {
+  align-items: center;
+}
+
+@media (min-width: 768px) {
   .responsive-label .col-md-3 {
     text-align: right;
   }
